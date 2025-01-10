@@ -1,2 +1,2 @@
 # MechanicMagic
-MechanicMagic is a comprehensive auto repair management system designed for car mechanics to enhance client relationships and streamline operations.
+MechanicMagic is a comprehensive auto repair management system designed for car mechanics to enhance client relationships and streamline operations. It offers a user-friendly interface for clients to track repair statuses, receive timely reminders for maintenance appointments, and review the history of changes or repairs made. With an integrated payment gateway, MechanicMagic simplifies transactions, making payments seamless and secure. Empowering mechanics and clients alike, MechanicMagic redefines convenience and transparency in the automotive repair industry.
